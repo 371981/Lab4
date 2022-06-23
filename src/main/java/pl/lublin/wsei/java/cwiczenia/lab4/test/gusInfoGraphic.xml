@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Główny Urząd Statystyczny</title>
+		<link>https://stat.gov.pl/</link>
+		<description>Główny Urząd Statystyczny - Portal Statystyki Publicznej</description>
+		<image>
+			<title>Główny Urząd Statystyczny</title>
+			<url>https://stat.gov.pl/szablony/portalinformacyjny/images/logo_normal.gif</url>
+			<link>https://stat.gov.pl/</link>
+		</image>
+		<atom:link href="https://stat.gov.pl/rss/pl/portalinformacyjny.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title><![CDATA[Nakłady i wyniki przemysłu - 1 kwartał 2022 roku]]></title>
+			<pubDate><![CDATA[Mon, 20 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/przemysl-budownictwo-srodki-trwale/przemysl/naklady-i-wyniki-przemyslu-1-kwartal-2022-roku,4,46.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/przemysl-budownictwo-srodki-trwale/przemysl/naklady-i-wyniki-przemyslu-1-kwartal-2022-roku,4,46.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5477/4/46/1/naklady_i_wyniki_przemyslu_1_kwartal_2022_roku.png" type="image/png" width="1654" height="2126">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5477/4/46/1/naklady_i_wyniki_przemyslu_1_kwartal_2022_roku,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5477/4/46/1/naklady_i_wyniki_przemyslu_1_kwartal_2022_roku,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>Podstawowe dane i wskaźniki charakteryzujące sytuację społeczno-gospodarczą kraju, prezentowane w postaci szeregów danych - miesięcznych, kwartalnych i rocznych na temat przemysłu, w tym dane o produkcji, obrocie, nowych zamówieniach, zatrudnieniu, przeciętnym miesięcznym wynagrodzeniu brutto, czasie przepracowanym, nakładach inwestycyjnych, aktywach obrotowych, źródłach finansowania majątku.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Zharmonizowane wskaźniki cen konsumpcyjnych (HICP)]]></title>
+			<pubDate><![CDATA[Fri, 17 Jun 2022 12:13:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/ceny-handel/wskazniki-cen/zharmonizowane-wskazniki-cen-konsumpcyjnych-hicp,10,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/ceny-handel/wskazniki-cen/zharmonizowane-wskazniki-cen-konsumpcyjnych-hicp,10,1.html</guid>
+			<category>Tablica</category>
+			<description><![CDATA[Zharmonizowane wskaźniki cen konsumpcyjnych (HICP) obliczane są przez kraje członkowskie według ujednoliconej metodologii Unii Europejskiej.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Rezygnacja z badania wpływu pandemii COVID-19 na koniunkturę gospodarczą]]></title>
+			<pubDate><![CDATA[Fri, 17 Jun 2022 10:20:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/aktualnosci/rezygnacja-z-badania-wplywu-pandemii-covid-19-na-koniunkture-gospodarcza,436,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/aktualnosci/rezygnacja-z-badania-wplywu-pandemii-covid-19-na-koniunkture-gospodarcza,436,1.html</guid>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5438/436/1/1/badanie_kg_pi_gus_pl.png" type="image/png" width="1230" height="690">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5438/436/1/1/badanie_kg_pi_gus_pl,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5438/436/1/1/badanie_kg_pi_gus_pl,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>W związku ze zniesieniem 16 maja 2022 r. stanu pandemii COVID-19 na terenie kraju, od czerwca br. w badaniu koniunktury gospodarczej nie są zadawane pytania dotyczące wpływu pandemii na koniunkturę.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Pracujący i wynagrodzenia w gospodarce narodowej w 2021 r. - dane wstępne]]></title>
+			<pubDate><![CDATA[Fri, 17 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/rynek-pracy/pracujacy-zatrudnieni-wynagrodzenia-koszty-pracy/pracujacy-i-wynagrodzenia-w-gospodarce-narodowej-w-2021-r-dane-wstepne,18,4.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/rynek-pracy/pracujacy-zatrudnieni-wynagrodzenia-koszty-pracy/pracujacy-i-wynagrodzenia-w-gospodarce-narodowej-w-2021-r-dane-wstepne,18,4.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[Według danych wstępnych na koniec 2021 r. liczba pracujących w gospodarce narodowej wynosiła 15,0 mln osób. W stosunku do ostatniego dnia 2020 r. było to więcej o 1,6%.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Statistics in Transition new series nr 2/2022]]></title>
+			<pubDate><![CDATA[Fri, 17 Jun 2022 09:10:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/inne-opracowania/inne-opracowania-zbiorcze/statistics-in-transition-new-series-nr-22022,43,6.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/inne-opracowania/inne-opracowania-zbiorcze/statistics-in-transition-new-series-nr-22022,43,6.html</guid>
+			<category>Publikacja</category>
+			<media:content url="https://stat.gov.pl/files/gfx/portalinformacyjny/pl/defaultaktualnosci/5501/43/6/1/gus_sit_2022_02.png" type="image/png" width="1309" height="1875">
+				<media:description type="plain"><![CDATA[]]></media:description>
+				<media:thumbnail url="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5501/43/6/1/gus_sit_2022_02,k1uUwl-caFOE6tCTiHtf.png" />
+			</media:content>
+			<description><![CDATA[<div><img src="https://stat.gov.pl//gfx/portalinformacyjny/_thumbs/pl/defaultaktualnosci/5501/43/6/1/gus_sit_2022_02,k1uUwl-caFOE6tCTiHtf.png" alt="" width="280" height="212"/></div>14 czerwca 2022 r. ukazał się nr 2/2022 "Statistics in Transition new series". Zapraszamy na stronę https://sit.stat.gov.pl/Issue/28.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[<b>Wskaźniki cen towarów i usług konsumpcyjnych w maju 2022 roku</b>]]></title>
+			<pubDate><![CDATA[Wed, 15 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/ceny-handel/wskazniki-cen/wskazniki-cen-towarow-i-uslug-konsumpcyjnych-w-maju-2022-roku,2,127.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/ceny-handel/wskazniki-cen/bwskazniki-cen-towarow-i-uslug-konsumpcyjnych-w-maju-2022-rokub,2,127.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[Ceny towarów i usług konsumpcyjnych w maju 2022 r. w porównaniu z analogicznym miesiącem ub. roku wzrosły o 13,9% (przy wzroście cen towarów – o 14,9% i usług – o 10,8%). W stosunku do poprzedniego miesiąca ceny towarów i usług wzrosły o 1,7% (w tym towarów – o 1,9% i usług – o 1,0%).]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Obroty towarowe handlu zagranicznego ogółem i według krajów w okresie styczeń-kwiecień 2022 roku]]></title>
+			<pubDate><![CDATA[Wed, 15 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/ceny-handel/handel/obroty-towarowe-handlu-zagranicznego-ogolem-i-wedlug-krajow-w-okresie-styczen-kwiecien-2022-roku,1,117.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/ceny-handel/handel/obroty-towarowe-handlu-zagranicznego-ogolem-i-wedlug-krajow-w-okresie-styczen-kwiecien-2022-roku,1,117.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[Obroty towarowe handlu zagranicznego w styczniu-kwietniu br. wyniosły w cenach bieżących 487,0 mld PLN w eksporcie oraz 532,3 mld PLN w imporcie. Ujemne saldo ukształtowało się na poziomie 45,3 mld PLN, podczas gdy w analogicznym okresie 2021 roku było dodatnie i wyniosło 17,1 mld PLN. W porównaniu z  analogicznym okresem 2021 roku eksport wzrósł o 17,3%, a import o 33,7%.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Szkolnictwo wyższe w roku akademickim 2021/2022  (wyniki wstępne)]]></title>
+			<pubDate><![CDATA[Wed, 15 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/edukacja/edukacja/szkolnictwo-wyzsze-w-roku-akademickim-20212022-wyniki-wstepne,8,8.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/edukacja/edukacja/szkolnictwo-wyzsze-w-roku-akademickim-20212022-wyniki-wstepne,8,8.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[Według stanu w dniu 31 grudnia 2021 r. w uczelniach w Polsce kształciło się 1218,2 tys. osób, o 2,9 tys. więcej w odniesieniu do poprzedniego roku. W roku akademickim 2020/21 dyplom ukończenia studiów otrzymało 297,4 tys. absolwentów, o 3,9 tys. więcej niż w roku akademickim 2019/20.]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Efektywność wykorzystania energii w latach 2010-2020]]></title>
+			<pubDate><![CDATA[Wed, 15 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/srodowisko-energia/energia/efektywnosc-wykorzystania-energii-w-latach-2010-2020,9,5.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/srodowisko-energia/energia/efektywnosc-wykorzystania-energii-w-latach-2010-2020,9,5.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[W Polsce w 2020 r. efektywność energetyczna wzrosła w
+stosunku do 2019 r. o 0,7%. W latach 2011-2020 roczne
+tempo wzrostu efektywności energetycznej wyniosło
+1,5%. Energochłonność pierwotna obniżała się w tym
+okresie średnio o 2,8% rocznie, a energochłonność
+finalna o 2,2%. Najszybsze tempo poprawy efektywności
+energetycznej odnotowano w transporcie (o 2,3%).]]></description>
+		</item>
+		<item>
+			<title><![CDATA[Wykorzystanie turystycznej bazy noclegowej w marcu 2022 r. w obliczu napływu uchodźców z Ukrainy i zniesienia obostrzeń związanych z pandemią COVID-19]]></title>
+			<pubDate><![CDATA[Tue, 14 Jun 2022 10:00:00 +0200]]></pubDate>
+			<link>https://stat.gov.pl/obszary-tematyczne/kultura-turystyka-sport/turystyka/wykorzystanie-turystycznej-bazy-noclegowej-w-marcu-2022-r-w-obliczu-naplywu-uchodzcow-z-ukrainy-i-zniesienia-obostrzen-zwiazanych-z-pandemia-covid-19,17,1.html</link>
+			<guid isPermaLink="false">https://stat.gov.pl/obszary-tematyczne/kultura-turystyka-sport/turystyka/wykorzystanie-turystycznej-bazy-noclegowej-w-marcu-2022-r-w-obliczu-naplywu-uchodzcow-z-ukrainy-i-zniesienia-obostrzen-zwiazanych-z-pandemia-covid-19,17,1.html</guid>
+			<category>Informacja sygnalna</category>
+			<description><![CDATA[W marcu 2022 r. z noclegów w turystycznych obiektach noclegowych w Polsce skorzystało 2,4 mln osób, w tym 1,8 mln turystów krajowych i 456,1 tys. osób z zagranicy. Dodatkowo w tym okresie w obiektach noclegowych znalazło schronienie 163,8 tys. uchodźców z ogarniętej wojną Ukrainy.]]></description>
+		</item>
+	</channel>
+</rss>
